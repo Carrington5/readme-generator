@@ -41,17 +41,20 @@ function generateMarkdown(data) {
   * [Tests](#tests)
   * [Questions](#questions)
 
-  ## Installation
+  ## Installation info
   ${data.installation}
+
   ## Usage
   ${data.usage}
  
   ## Credits
   ${data.credits}
   ${renderLicenseSection(data.license)}
+
   ## Tests
   ${data.tests}
-  ## Questions
+  
+  ## Questions/contact info
   ![${data.github}](https://github.com/${data.github})
 
 `;

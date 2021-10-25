@@ -32,7 +32,7 @@ const questions = [
     {
         type: 'input',
         name: 'usage',
-        message:'Prodive instructions and exmaples for use'
+        message: 'Prodive instructions and exmaples for use'
     },
     {
         type: 'input',
@@ -43,7 +43,7 @@ const questions = [
         type: 'list',
         choices: ['MIT','GPLv3','GNU AGPLv3','Boost Software License 1.0','none']  ,
         name: 'license',
-        message: 'Will tell developers what this code can and cannot be used for'
+        message: 'how will being using the code?'
     },
     {
         type: 'input',

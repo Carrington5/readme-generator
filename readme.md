@@ -1,7 +1,7 @@
-# best dsfsfs![github license](https://img.shields.io/badge/license-Boost Software License 1.0-red.svg)
+# readme gen![github license](https://img.shields.io/badge/license-MIT-red.svg)
 
   ## Description
-  thinsdfs
+  file gen for a read me doc
 
   ## Table of Contents
   * [Installation](#installation)
@@ -12,16 +12,16 @@
   * [Questions](#questions)
 
   ## Installation
-  fff
+  vs code
   ## Usage
-  sdfs
+  will us vs code for project
  
   ## Credits
-  ffsdf
+  carrington5
   ## License
-    this project has a license of Boost Software License 1.0
+    this project has a license of MIT
   ## Tests
-  sdfsdf
+  test to see if will gen correctly
   ## Questions
   ![carrington5](https://github.com/carrington5)
 

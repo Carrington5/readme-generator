@@ -1,7 +1,7 @@
 # readme gen![github license](https://img.shields.io/badge/license-MIT-red.svg)
 
   ## Description
-  file gen for a read me doc
+  readme file generator! to help make our lives simpler with the touch of couple inputs!
 
   ## Table of Contents
   * [Installation](#installation)
@@ -12,16 +12,21 @@
   * [Questions](#questions)
 
   ## Installation
-  vs code
+  shows that it was bulit in with on java and no html
+  
   ## Usage
-  will us vs code for project
+  usage will be for the abiltiy to make new readme without using html
  
   ## Credits
-  carrington5
+  carrington
+  
   ## License
-    this project has a license of MIT
+    this project has a license of MIT/ none
+    
   ## Tests
   test to see if will gen correctly
+  
   ## Questions
   ![carrington5](https://github.com/carrington5)
 
+https://github.com/Carrington5/readme-generator/edit/main/readme.md
